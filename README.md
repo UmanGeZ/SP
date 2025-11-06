@@ -1,5 +1,5 @@
 # SP
 software packaages
 adding new things in the future
-/n new
+no
 addd 
